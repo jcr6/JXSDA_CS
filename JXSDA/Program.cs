@@ -18,11 +18,10 @@
 // Version 20.11.10
 // EndLic
 
+// This program was only written to test if the algorithm works!
+
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace TrickyUnits {
     static class Program {
